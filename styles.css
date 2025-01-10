@@ -581,7 +581,11 @@ a {
 }
 #project2 {
   margin-left: 120px;
+<<<<<<< HEAD
   background-image: url(./images/projects/Food-delivery.jpeg);
+=======
+  background-image: url(./images/projects/shopping\ app.png);
+>>>>>>> 211c7dc379e140d5d1debbfdd334483c42b729c5
   background-size: 100% 100%;
 }
 #project3 {
